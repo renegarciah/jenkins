@@ -1,2 +1,3 @@
 echo "shell desde git"
-echo $1
+nombre=$1
+echo $nombre
